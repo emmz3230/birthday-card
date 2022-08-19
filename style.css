@@ -1,0 +1,44 @@
+body {
+    background-image: url(./blue-birthday-background-vector-17571253.jpg);
+    background-repeat: no-repeat;
+}
+.hap{
+    margin-top: 390px;
+    margin-left: 250px;
+    color: red;
+    font-size: 100px;
+}
+.birth{
+    margin-left: 180px;
+    font-size: 130px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+.to{
+    margin-left: 300px;
+    font-size: 70px;
+    color: red;
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-image: url(./blue-birthday-background-vector-17571253.jpg);
+        background-repeat: no-repeat;
+    }
+    .hap{
+        margin-top: 230px;
+        margin-left: 120px;
+        color: red;
+        font-size: 40px;
+    }
+    .birth{
+        margin-left: 100px;
+        font-size: 50px;
+        color: red;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .to{
+        margin-left: 150px;
+        font-size: 20px;
+        color: red;
+    }
+  }
